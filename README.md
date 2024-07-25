@@ -26,7 +26,7 @@ Revenue and Profit Growth Strategies
 Question: After completing the product dissection and schema design steps for the chosen platform, conduct a comprehensive case study on the above chosen industry. Your goal is to identify and propose strategies to increase the profit of the industry by at least 25%.
 Create a detailed report summarising your findings and proposals. Include data-driven justifications for each proposed strategy and present your case study using visual aids such as charts, graphs, and diagrams to illustrate your points. Outline the steps, resources, and timeline required to achieve the desired revenue and profit growth.
 
-PART - II
+**PART - II**
 
 Guesstimates
 What will be the percentage increase in global FinTech investments over the next five years?
